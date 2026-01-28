@@ -1,0 +1,232 @@
+{
+  "services": {
+    "service_001": {
+      "title": "تصميم المواقع الإلكترونية",
+      "description": "نقوم بتصميم وتطوير مواقع إلكترونية عصرية وسريعة ومتجاوبة مع جميع الأجهزة باستخدام أحدث التقنيات",
+      "icon": "globe",
+      "features": [
+        "تصميم متجاوب مع جميع الأجهزة",
+        "سرعة عالية في التحميل",
+        "تحسين محركات البحث SEO",
+        "لوحة تحكم سهلة الاستخدام",
+        "استضافة مجانية لسنة واحدة"
+      ],
+      "order": 1
+    },
+    "service_002": {
+      "title": "تطوير تطبيقات الموبايل",
+      "description": "تطوير تطبيقات الهواتف الذكية لأنظمة iOS و Android بأحدث التقنيات والأدوات العصرية",
+      "icon": "iphone",
+      "features": [
+        "تطبيقات iOS و Android أصلية",
+        "واجهات مستخدم عصرية وسهلة",
+        "أداء سريع ومستقر",
+        "دعم للإشعارات الفورية",
+        "ربط مع قواعد البيانات"
+      ],
+      "order": 2
+    },
+    "service_003": {
+      "title": "المتاجر الإلكترونية",
+      "description": "إنشاء متاجر إلكترونية شاملة مع أنظمة الدفع والشحن والإدارة المتقدمة",
+      "icon": "cart",
+      "features": [
+        "بوابات دفع آمنة ومتعددة",
+        "إدارة المنتجات والمخزون",
+        "نظام الشحن والتوصيل",
+        "تقارير المبيعات التفصيلية",
+        "دعم العملات المتعددة"
+      ],
+      "order": 3
+    },
+    "service_004": {
+      "title": "تصميم الهوية التجارية",
+      "description": "تصميم شعارات وهوية بصرية متكاملة للشركات والمؤسسات مع دليل استخدام شامل",
+      "icon": "paintbrush",
+      "features": [
+        "تصميم الشعارات الاحترافية",
+        "بطاقات العمل والمراسلات",
+        "الأوراق الرسمية والفواتير",
+        "دليل الهوية البصرية",
+        "تصميم مواد التسويق"
+      ],
+      "order": 4
+    },
+    "service_005": {
+      "title": "تصميم UI/UX",
+      "description": "تصميم تجربة مستخدم مميزة وواجهات تفاعلية احترافية تضمن رضا العملاء",
+      "icon": "pencil.and.outline",
+      "features": [
+        "دراسة تجربة المستخدم UX",
+        "النماذج الأولية والتفاعلية",
+        "اختبار قابلية الاستخدام",
+        "تصميم واجهات متجاوبة",
+        "أدلة التصميم المفصلة"
+      ],
+      "order": 5
+    },
+    "service_006": {
+      "title": "الصيانة والتطوير",
+      "description": "خدمات الصيانة والتحديث المستمر للمواقع والتطبيقات مع دعم فني متواصل",
+      "icon": "wrench.and.screwdriver",
+      "features": [
+        "صيانة دورية ومنتظمة",
+        "تحديثات أمنية مستمرة",
+        "نسخ احتياطية تلقائية",
+        "دعم فني 24/7",
+        "تقارير الأداء الشهرية"
+      ],
+      "order": 6
+    }
+  },
+  "portfolio": {
+    "project_001": {
+      "title": "متجر الأزياء العصرية",
+      "description": "متجر إلكتروني شامل للأزياء النسائية والرجالية مع نظام دفع آمن ولوحة تحكم متقدمة لإدارة المنتجات والطلبات",
+      "imageURL": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800&h=600&fit=crop",
+      "category": "متجر إلكتروني",
+      "technologies": ["React.js", "Node.js", "MongoDB", "Stripe", "AWS"],
+      "order": 1
+    },
+    "project_002": {
+      "title": "تطبيق توصيل الطعام",
+      "description": "تطبيق موبايل لطلب وتوصيل الطعام مع تتبع الطلبات في الوقت الفعلي ونظام تقييم المطاعم",
+      "imageURL": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=800&h=600&fit=crop",
+      "category": "تطبيق موبايل",
+      "technologies": ["Flutter", "Firebase", "Google Maps", "Stripe"],
+      "order": 2
+    },
+    "project_003": {
+      "title": "موقع شركة استشارات",
+      "description": "موقع إلكتروني احترافي لشركة استشارات مع نظام حجز المواعيد وإدارة العملاء",
+      "imageURL": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=800&h=600&fit=crop",
+      "category": "موقع إلكتروني",
+      "technologies": ["WordPress", "PHP", "MySQL", "PayPal"],
+      "order": 3
+    },
+    "project_004": {
+      "title": "تطبيق إدارة المهام",
+      "description": "تطبيق ويب لإدارة المهام والمشاريع مع فريق العمل وتتبع التقدم والإنتاجية",
+      "imageURL": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=800&h=600&fit=crop",
+      "category": "تطبيق ويب",
+      "technologies": ["Vue.js", "Laravel", "PostgreSQL", "Redis"],
+      "order": 4
+    },
+    "project_005": {
+      "title": "هوية بصرية لمطعم",
+      "description": "تصميم هوية بصرية متكاملة لسلسلة مطاعم مع الشعار والقوائم والمواد التسويقية",
+      "imageURL": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&h=600&fit=crop",
+      "category": "هوية بصرية",
+      "technologies": ["Adobe Illustrator", "Adobe Photoshop", "InDesign"],
+      "order": 5
+    },
+    "project_006": {
+      "title": "منصة تعليمية",
+      "description": "منصة تعليمية تفاعلية مع نظام إدارة الكورسات والطلاب والاختبارات الإلكترونية",
+      "imageURL": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=800&h=600&fit=crop",
+      "category": "منصة تعليمية",
+      "technologies": ["Angular", "Spring Boot", "MySQL", "WebRTC"],
+      "order": 6
+    }
+  },
+  "team": {
+    "team_001": {
+      "name": "أحمد محمد الشريف",
+      "position": "مدير المشاريع التقنية",
+      "bio": "خبرة أكثر من 8 سنوات في إدارة المشاريع التقنية وقيادة الفرق متعددة التخصصات في تطوير الحلول الرقمية المبتكرة",
+      "imageURL": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+      "skills": [
+        "إدارة المشاريع التقنية",
+        "التخطيط الاستراتيجي",
+        "قيادة الفرق",
+        "إدارة الجودة",
+        "Agile & Scrum"
+      ],
+      "order": 1
+    },
+    "team_002": {
+      "name": "فاطمة أحمد النور",
+      "position": "مصممة UI/UX رئيسية",
+      "bio": "متخصصة في تصميم تجربة المستخدم والواجهات التفاعلية العصرية مع خبرة عميقة في البحث التسويقي وسلوك المستخدمين",
+      "imageURL": "https://images.unsplash.com/photo-1494790108755-2616b612b550?w=400&h=400&fit=crop",
+      "skills": [
+        "تصميم UI/UX",
+        "Figma",
+        "Adobe Creative Suite",
+        "User Research",
+        "Prototyping",
+        "Design Systems"
+      ],
+      "order": 2
+    },
+    "team_003": {
+      "name": "خالد سالم التميمي",
+      "position": "مطور Frontend أول",
+      "bio": "مطور متخصص في تقنيات الواجهة الأمامية والتطبيقات التفاعلية مع خبرة واسعة في أحدث الأطر والمكتبات البرمجية",
+      "imageURL": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop",
+      "skills": [
+        "React.js",
+        "Vue.js",
+        "JavaScript/TypeScript",
+        "HTML5/CSS3",
+        "Responsive Design",
+        "Performance Optimization"
+      ],
+      "order": 3
+    },
+    "team_004": {
+      "name": "مريم علي الخضراء",
+      "position": "مطورة Backend أولى",
+      "bio": "متخصصة في تطوير الخوادم وقواعد البيانات والأنظمة المعقدة مع خبرة في البنية السحابية والأمان الرقمي",
+      "imageURL": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop",
+      "skills": [
+        "Node.js",
+        "Python/Django",
+        "MongoDB/PostgreSQL",
+        "AWS/Azure",
+        "API Development",
+        "System Architecture"
+      ],
+      "order": 4
+    }
+  },
+  "company_info": {
+    "main_info": {
+      "companyName": "شركة سوبر تكنو",
+      "companyNameEn": "Digital Design Studio",
+      "tagline": "نحن نبني المستقبل الرقمي",
+      "taglineEn": "We Build The Digital Future",
+      "description": "شركة رائدة في مجال التصميم والتطوير الرقمي، نقدم حلولاً مبتكرة ومتكاملة للشركات والمؤسسات",
+      "vision": "أن نكون الشركة الرائدة في المنطقة لتقديم الحلول الرقمية المبتكرة",
+      "mission": "نسعى لتمكين عملائنا من النجاح في العالم الرقمي من خلال تقديم خدمات عالية الجودة ومبتكرة",
+      "founded": "2020",
+      "employees": "25+",
+      "projectsCompleted": "150+",
+      "clientsSatisfied": "100+",
+      "contact": {
+        "phone": "+966 50 123 4567",
+        "whatsapp": "+966 50 123 4567",
+        "email": "info@designstudio.sa",
+        "website": "https://designstudio.sa",
+        "address": {
+          "ar": "الرياض، المملكة العربية السعودية",
+          "en": "Riyadh, Saudi Arabia"
+        }
+      },
+      "socialMedia": {
+        "twitter": "https://twitter.com/designstudio_sa",
+        "instagram": "https://instagram.com/designstudio_sa",
+        "linkedin": "https://linkedin.com/company/designstudio-sa"
+      },
+      "workingHours": {
+        "ar": "الأحد - الخميس: 9:00 ص - 6:00 م",
+        "en": "Sunday - Thursday: 9:00 AM - 6:00 PM"
+      },
+      "certifications": [
+        "Google Partner",
+        "AWS Certified",
+        "Adobe Certified Expert"
+      ]
+    }
+  }
+}
